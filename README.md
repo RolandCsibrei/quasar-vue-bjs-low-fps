@@ -1,3 +1,5 @@
+Smash the EMIT ENGINE button and wait for the FPS drop. There are two FPS counters. The one in the header is getting FPS from the emitted Engine object. The one in the scene is getting directly from the Engine object.
+
 # Quasar App (quasar-low-fps)
 
 A Quasar Framework app
